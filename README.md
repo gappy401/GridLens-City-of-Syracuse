@@ -1,7 +1,7 @@
 # Renewable Project Atlas
 
 Geospatial pipeline + FastAPI microservice + React dashboard for renewable energy siting intelligence.
-Portfolio project built to the **Enverus / Pearl Street Technologies** data engineering stack.
+
 
 ## Stack
 | Layer | Technology |
